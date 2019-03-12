@@ -1,42 +1,18 @@
-## Welcome to GitHub Pages
+## Capstone 2019: Team E Team Website
 
-You can use the [editor on GitHub](https://github.com/ElijahRW/Capstone-2019-WS-Team-E/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Goal: 
+Create a Web Based application for Patients and Audiologist and create a Database to collect and store data. 
+Validate questionnaires of Patients
 
 ## Team Meetings
+
 * [3/14/2019](docs/TeamMeeting_Winter/TeamMeeting_3_5_19.md)
 * [2/28/2019](docs/TeamMeeting_Winter/TeamMeeting_2_28_19.md)
 * [2/21/2019](docs/TeamMeeting_Winter/TeamMeeting_2_21_19.md)
 * [2/19/2019](docs/TeamMeeting_Winter/TeamMeeting_2_19_19.md)
 * [2/14/2019](docs/TeamMeeting_Winter/TeamMeeting_2_14_19.md)
 
-## [Team Meeting Summary](problemDescription.md)
-## [User Story Summary](docs/TeamMeeting_3_7_19.md)
+## User Story Summary
 
 ### Jekyll Themes
 
