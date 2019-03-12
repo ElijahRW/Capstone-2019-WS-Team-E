@@ -28,7 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Current User Stories](problemDescription.md)
+## [Team Meeting Summary](problemDescription.md)
+## [User Story Summary](docs/TeamMeeting_3_7_19.md)
 
 ### Jekyll Themes
 
