@@ -28,6 +28,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Team Meetings
+* [3/14/2019](docs/TeamMeeting_Winter/TeamMeeting_3_5_19.md)
+* [2/28/2019](docs/TeamMeeting_Winter/TeamMeeting_2_28_19.md)
+* [2/21/2019](docs/TeamMeeting_Winter/TeamMeeting_2_21_19.md)
+* [2/19/2019](docs/TeamMeeting_Winter/TeamMeeting_2_19_19.md)
+* [2/14/2019](docs/TeamMeeting_Winter/TeamMeeting_2_14_19.md)
+
 ## [Team Meeting Summary](problemDescription.md)
 ## [User Story Summary](docs/TeamMeeting_3_7_19.md)
 
