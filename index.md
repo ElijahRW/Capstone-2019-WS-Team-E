@@ -4,6 +4,10 @@
 Create a Web Based application for Patients and Audiologist and create a Database to collect and store data. 
 Validate questionnaires of Patients
 
+## Team Process
+
+* [First Process Discussion](docs/TeamProcess.md)
+
 ## Team Meetings
 
 * [3/14/2019](docs/TeamMeeting_Winter/TeamMeeting_3_5_19.md)
