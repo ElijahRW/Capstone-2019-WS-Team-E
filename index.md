@@ -22,11 +22,26 @@ Validate questionnaires of Patients
 
 ## Team Meetings
 
+### Winter
+
 * [3/14/2019](docs/TeamMeeting_Winter/TeamMeeting_3_5_19.md)
 * [2/28/2019](docs/TeamMeeting_Winter/TeamMeeting_2_28_19.md)
 * [2/21/2019](docs/TeamMeeting_Winter/TeamMeeting_2_21_19.md)
 * [2/19/2019](docs/TeamMeeting_Winter/TeamMeeting_2_19_19.md)
 * [2/14/2019](docs/TeamMeeting_Winter/TeamMeeting_2_14_19.md)
+
+### Spring
+
+* [4/2/2019](docs/TeamMeeting_Spring/TeamMeeting_4_2_19.md)
+* [4/4/2019](docs/TeamMeeting_Spring/TeamMeeting_4_4_19.md)
+* [4/9/2019](docs/TeamMeeting_Spring/TeamMeeting_4_9_19.md)
+* [4/16/2019](docs/TeamMeeting_Spring/TeamMeeting_4_16_19.md)
+* [4/22/2019](docs/TeamMeeting_Spring/TeamMeeting_4_22_19.md)
+* [5/2/2019](docs/TeamMeeting_Spring/TeamMeeting_5_2_19.md)
+* [5/5/2019](docs/TeamMeeting_Spring/TeamMeeting_5_5_19.md)
+* [5/9/2019](docs/TeamMeeting_Spring/TeamMeeting_5_9_19.md)
+* [5/16/2019](docs/TeamMeeting_Spring/TeamMeeting_5_16_19.md)
+* [5/21/2019](docs/TeamMeeting_Spring/TeamMeeting_5_21_19.md)
 
 ## User Story Summary
 
