@@ -22,7 +22,30 @@ Validate questionnaires of Patients
 * [First Process Discussion](docs/TeamProcess.md)
 * [Code Process Documentation](docs/document.pdf)
 
-## Team Meetings
+## Weekly Snapshots
+
+### Winter
+
+* [Week 1](docs/REPLACE_ME.md)
+* [Week 2](docs/REPLACE_ME.md)
+* [Week 3](docs/REPLACE_ME.md)
+* [Week 4](docs/REPLACE_ME.md)
+* [Week 5](docs/REPLACE_ME.md)
+
+### Spring
+
+* [Week 1](docs/Snapshots_Sprint/5_30_19_Snapshot.md)
+* [Week 2](docs/REPLACE_ME.md)
+* [Week 3](docs/REPLACE_ME.md)
+* [Week 4](docs/REPLACE_ME.md)
+* [Week 5](docs/REPLACE_ME.md)
+* [Week 6](docs/REPLACE_ME.md)
+* [Week 7](docs/REPLACE_ME.md)
+* [Week 8](docs/REPLACE_ME.md)
+* [Week 9](docs/REPLACE_ME.md)
+* [Week 10](docs/REPLACE_ME.md)
+
+## Team Meeting Summaries
 
 ### Winter
 
