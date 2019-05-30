@@ -1,5 +1,16 @@
 ## Capstone 2019: Team E Team Website
 
+### The Reported Problem:
+A development study to promote consistency among VA audiologists in tinnitus care by refining, simplifying, and streamlining a clinical algorithm based on evidence-based research
+
+Two previous Capstone projects created a web-based application for the Audiologist and patient in order to provide:
+Questionnaires and audiological tests
+Recommendations for both clinician and patient
+Educational information in the form of interactive screens and videos
+Referral links for interdisciplinary care.
+
+Our task will be to create a database to collect and store data entered into the program 
+
 ### Goal: 
 Create a Web Based application for Patients and Audiologist and create a Database to collect and store data. 
 Validate questionnaires of Patients
