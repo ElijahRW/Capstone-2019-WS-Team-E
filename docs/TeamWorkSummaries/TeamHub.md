@@ -1,15 +1,29 @@
-## Team Members
-#### [Elijah](elijah.md)
+# Team Members
+
+## [Elijah](elijah.md)
+
 * Role: Team Lead
-#### [Griffin](griffin.md)
+
+## [Griffin](griffin.md)
+
 * Role: Lead Architect
-#### [Mishal](mishal.md)
+
+## [Mishal](mishal.md)
+
 * Role: Point of Contact
-#### [Dante](Dante.md)
+
+## [Dante](Dante.md)
+
 * Role: Developer
-#### [Bar](bar.md)
+
+## [Bar](bar.md)
+
 * Role: Dev Ops
-#### [Dominic](dominic.md)
+
+## [Dominic](dominic.md)
+
 * Role: Point of Contact
-#### [Liam](liam.md)
+
+## [Liam](liam.md)
+
 * Role: Dev Ops

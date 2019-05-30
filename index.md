@@ -1,6 +1,7 @@
-## Capstone 2019: Team E Team Website
+# Capstone 2019: Team E Team Website
 
-### The Reported Problem:
+## The Reported Problem
+
 A development study to promote consistency among VA audiologists in tinnitus care by refining, simplifying, and streamlining a clinical algorithm based on evidence-based research
 
 Two previous Capstone projects created a web-based application for the Audiologist and patient in order to provide:
@@ -11,7 +12,8 @@ Referral links for interdisciplinary care.
 
 Our task will be to create a database to collect and store data entered into the program 
 
-### Goal: 
+## Goal
+
 Create a Web Based application for Patients and Audiologist and create a Database to collect and store data. 
 Validate questionnaires of Patients
 
@@ -45,10 +47,10 @@ Validate questionnaires of Patients
 
 ## User Story Summary
 
-### Jekyll Themes
+<!-- ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElijahRW/Capstone-2019-WS-Team-E/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
