@@ -67,8 +67,8 @@ Validate questionnaires of Patients
 
 ### Spring
 
-* [Week 1](docs/Snapshots_Spring/5_30_19_Snapshot.md)
-* [Week 2](docs/REPLACE_ME.md)
+* [Week 1](https://app.gitkraken.com/glo/board/XPcNbLBC4gAPrrYZ)
+* [Week 2](https://app.gitkraken.com/glo/board/XPcTgbBC4gAPrrZu)
 * [Week 3](docs/REPLACE_ME.md)
 * [Week 4](docs/REPLACE_ME.md)
 * [Week 5](docs/REPLACE_ME.md)
