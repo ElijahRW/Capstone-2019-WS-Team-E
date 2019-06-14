@@ -75,8 +75,8 @@ Validate questionnaires of Patients
 * [Week 6](https://app.gitkraken.com/glo/board/XP3w-LBC4gAPryrJ)
 * [Week 7](https://app.gitkraken.com/glo/board/XP3_xvk3jAAPDpkZ)
 * [Week 8](https://app.gitkraken.com/glo/board/XP7r24UxbwAPo-kp)
-* [Week 9](docs/REPLACE_ME.md)
-* [Week 10](docs/REPLACE_ME.md)
+* [Week 9](https://app.gitkraken.com/glo/board/XQMPZPk3jAAPDwVp)
+* [Week 10](https://app.gitkraken.com/glo/board/XGB-dPwpqQAbyYcU)
 
 ## Team Meeting Summaries
 
