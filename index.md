@@ -1,5 +1,7 @@
 # Capstone 2019: Team E Team Website
 
+## [Project Repository](https://github.com/movshov/VA-Audiology-App/pulls)
+
 ## The Reported Problem
 
 A development study to promote consistency among VA audiologists in tinnitus care by refining, simplifying, and streamlining a clinical algorithm based on evidence-based research
@@ -47,15 +49,17 @@ Validate questionnaires of Patients
 * As an admin, I want to Delete an existing patient.
 * As a statistician (or admin), I want to perform searches on the patient data so that I can develop statistics.
 
-## Current And Past Plans
-
-* WIP
-
 ## Schedule
 
-* WIP
+### Initially Planned Schedule
 
-## Weekly Snapshots
+![Initial Plan](docs/TeamSchedule/TeamSchedule_planned.png "Initial Plan")
+
+### Final Plan Results *Results can be verified by repostiory*
+
+![Final Plan](docs/TeamSchedule/TeamSchedule_actual.png "Final Plan")
+
+## Weekly Sprint Board Snapshots
 
 <!-- ### Winter
 
@@ -101,7 +105,10 @@ Validate questionnaires of Patients
 * [5/16/2019](docs/TeamMeeting_Spring/TeamMeeting_5_16_19.md)
 * [5/21/2019](docs/TeamMeeting_Spring/TeamMeeting_5_21_19.md)
 
-## User Story Summary
+
+## [Team Documentation Google Drive](https://drive.google.com/drive/u/2/folders/1pOlT7q4Hv2iXVhc90p5JOZDTUWS29D-c)
+
+
 
 <!-- ### Jekyll Themes
 
